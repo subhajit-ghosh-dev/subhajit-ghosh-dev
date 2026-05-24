@@ -135,8 +135,8 @@ Currently pursuing my **B.Tech in Computer Science and Design** at **BCREC**, I 
 
 ## Connect with Me
 
-📧 Email: **suvojitghosh2000@gmail.com**  
-🌐 Portfolio: *Coming Soon...*  
+📧 Email: **subhajit.ghosh.dev@gmail.com**  
+🌐 Portfolio: *https://subhajitghosh.vercel.app/*  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhajit-ghosh-a17104348/)
 
